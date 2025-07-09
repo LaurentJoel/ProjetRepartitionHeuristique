@@ -1,6 +1,6 @@
-# Projet Répartition Heuristique ISSEA
+# Projet Répartition Heuristique 
 
-Ce projet permet de répartir automatiquement les étudiants dans les salles d'examen de l'ISSEA en respectant des contraintes d'adjacence de matières et d'occupation des salles, avec une interface Streamlit et une exportation PDF visuelle.
+Ce projet permet de répartir automatiquement les étudiants dans les salles d'examen  en respectant des contraintes d'adjacence de matières et d'occupation des salles, avec une interface Streamlit et une exportation PDF visuelle.
 
 ## Fonctionnalités principales
 
@@ -45,4 +45,3 @@ Ou ouvrez directement le fichier `ApercuDocument.mp4` dans ce dépôt.
 
 **Auteur :** Laurent Joel
 
-Projet ISSEA 2025
